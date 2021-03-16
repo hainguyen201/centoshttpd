@@ -1,0 +1,4 @@
+- clone vào thư mục root, (nếu không thì cần config lại đường dẫn baseurl trong file offline.repo)
+- Copy offline.repo vào yum.repos.d
+- di chuyển tạm thời các file repo khác vào một thư mục backup 
+- yum --enablerepo=offline install redhat-lsb
