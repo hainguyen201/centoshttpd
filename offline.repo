@@ -1,6 +1,0 @@
-[offline]
-name=CentOS-7 - redhat-lsb
-baseurl=file:///centoshttpd/redhat-lsb
-enabled=0
-gpgcheck=1
-gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
